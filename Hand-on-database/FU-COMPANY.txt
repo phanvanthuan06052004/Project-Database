@@ -1,0 +1,10 @@
+FU-COMPANY
+1.Thiết kế ERD và DĐL (SQL server) để lưu trữ thông tin về các seminar, buổi giảng phụ đạo của các thầy cô bên bộ môn SE
+	Mỗi giảng viên có thể có tổ cvhwucxs nhiều seminar/buổi phụ đạo khác nhau và mỗi seminar/buổi phụ đạo chỉ do một giảng viên phụ trách
+	thông tin lưu trữ bao gồm: mã sdoos giảng viên, tên giảng viên, email, phone, bộ môn (SE, CF, ÍT, Incuuubator,...), ngày giwof seminar/phụ đao, loại hình tổ chức( seminar, phuuj đạo), chủ đề, otms tắt nọi dung, phòng học( nếu tiến hành offline), online-link (neeuus tiến hành online), sĩ số dự kiến
+
+1.*****NÂNG CAO: NGHĨ THÊM VỀ LOOK-UUUP TABLE(...TYPPE TABLE)
+
+2.HẮC NÃO: thiết kế ERD vcaf DDL lưu trữ thông tin các thành viên trong  lớp 12A5 ở trường THPT XYZ. Lớp 12A5 có 48 học sinh, chia làm 4 tổ, mỗi tổ có một tổ trưởng là học sinh có uuy tín được các bạn bình bầu cử ra.
+	Thông tin cần lưu trữ bao gồm: mã số học sinh, tên, só di động, tên tổ(1, 2, 3, 4) ai là tổ trưởng của học sinh này
+

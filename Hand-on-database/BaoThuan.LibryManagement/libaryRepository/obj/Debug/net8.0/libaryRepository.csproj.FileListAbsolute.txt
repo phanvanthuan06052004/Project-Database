@@ -1,0 +1,14 @@
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.csproj.AssemblyReference.cache
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.AssemblyInfoInputs.cache
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.AssemblyInfo.cs
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.csproj.CoreCompileInputs.cache
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\bin\Debug\net8.0\libaryRepository.deps.json
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\bin\Debug\net8.0\libaryRepository.runtimeconfig.json
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\bin\Debug\net8.0\libaryRepository.dll
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\bin\Debug\net8.0\libaryRepository.pdb
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.dll
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\refint\libaryRepository.dll
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.pdb
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\libaryRepository.genruntimeconfig.cache
+C:\Hand-on\BaoThuan.LibryManagement\libaryRepository\obj\Debug\net8.0\ref\libaryRepository.dll

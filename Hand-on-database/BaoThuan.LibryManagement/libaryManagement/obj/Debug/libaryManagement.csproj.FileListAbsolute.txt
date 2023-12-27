@@ -1,0 +1,12 @@
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\bin\Debug\libaryManagement.exe.config
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\bin\Debug\libaryManagement.exe
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\bin\Debug\libaryManagement.pdb
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.csproj.AssemblyReference.cache
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.Login.resources
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.Properties.Resources.resources
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.csproj.GenerateResource.cache
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.csproj.CoreCompileInputs.cache
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.exe
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.pdb
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\bin\Debug\FontAwesome.Sharp.dll
+C:\Hand-on\BaoThuan.LibryManagement\libaryManagement\obj\Debug\libaryManagement.csproj.CopyComplete
